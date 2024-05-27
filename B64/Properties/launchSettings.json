@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "B64": {
+      "commandName": "Project",
+      "commandLineArgs": "mockoon.setup.8.1.1.7z.*"
+    }
+  }
+}
